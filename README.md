@@ -1,6 +1,8 @@
 SplitDuration
 =============
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3510113.svg)](https://doi.org/10.5281/zenodo.3510113)
+
 Calculate the length of expected time periods of time-delays (acquired from shear-wave splitting) increase and decrease according to the empirical relations of Crampin et al. (2013).
 
 For any issues, comments or suggestions please contact me at ispingos@geol.uoa.gr or through GitHub at https://www.github.com/ispingos/SplitDuration
